@@ -25,9 +25,9 @@ imena_polj = ['naslov', 'avtor', 'ocena_kritikov', 'leto', 'zanr', 'ocena_ljudi'
 
 def naredi_csv():
     sez, sez_zanrov = [], []
+    id = 1 #vsakemu albuma priredim še id
     for html in orodja.datoteke('strani/'):
         counter = 0 #s tem odstranim tezavo pri regexu na koncu vsakega htmlja
-        id = 1 #vsakemu albuma priredim še id
         for album in re.finditer(regex_albuma, orodja.vsebina_datoteke(html)):
             podatki = album.groupdict()
             counter += 1
