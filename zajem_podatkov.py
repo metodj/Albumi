@@ -31,6 +31,8 @@ def naredi_csv():
             podatki = album.groupdict()
             counter += 1
             podatki['zanr'] = podatki['zanr'].split()
+            for i in range(len(podatki['zanr'])):
+                podatki['zanr'][i] = podatki['zanr'][i].replace(',','')
             podatki['leto'] = int(podatki['leto'])
             podatki['ocena_kritikov'] = int(podatki['ocena_kritikov'])
             podatki['ocena_ljudi'] = float(podatki['ocena_ljudi'])
