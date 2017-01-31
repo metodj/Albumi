@@ -24,9 +24,10 @@ regex_albuma = re.compile(r'"product_title"><a.*?>(?P<naslov>.+?)</a><.*?> - (?P
 imena_polj = ['naslov', 'avtor', 'ocena_kritikov', 'leto', 'zanr', 'ocena_ljudi']
 
 def naredi_csv():
-    sez = []
+    sez, sez_zanrov = [], []
     for html in orodja.datoteke('strani/'):
         counter = 0 #s tem odstranim tezavo pri regexu na koncu vsakega htmlja
+        id = 1 #vsakemu albuma priredim še id
         for album in re.finditer(regex_albuma, orodja.vsebina_datoteke(html)):
             podatki = album.groupdict()
             counter += 1
@@ -35,11 +36,16 @@ def naredi_csv():
                 podatki['zanr'][i] = podatki['zanr'][i].replace(',','')
             podatki['leto'] = int(podatki['leto'])
             podatki['ocena_kritikov'] = int(podatki['ocena_kritikov'])
-            podatki['ocena_ljudi'] = float(podatki['ocena_ljudi'])
+            podatki['ocena_ljudi'] = int(float(podatki['ocena_ljudi']) * 10)
+            podatki['id'] = id
+            for k in podatki['zanr']:
+                sez_zanrov.append({'id': id, 'zanr': k})
+            id += 1
             if counter >= 70:
                 break
             sez.append(podatki)
     orodja.zapisi_tabelo(sez, imena_polj, 'tabela.csv')
+    orodja.zapisi_tabelo(sez_zanrov, ['id', 'zanr'], 'zanri.csv')
 
 #shrani_html(server)
 #naredi_csv()
