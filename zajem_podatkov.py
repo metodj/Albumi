@@ -21,7 +21,7 @@ regex_albuma = re.compile(r'"product_title"><a.*?>(?P<naslov>.+?)</a><.*?> - (?P
                           r'pan>.*?<span class="data textscore.*?>(?P<ocena_ljudi>.*?)</span>',
                           flags=re.DOTALL)
 
-imena_polj = ['naslov', 'avtor', 'ocena_kritikov', 'leto', 'zanr', 'ocena_ljudi']
+imena_polj = ['naslov', 'avtor', 'ocena_kritikov', 'leto', 'ocena_ljudi']
 
 def naredi_csv():
     sez, sez_zanrov = [], []
@@ -41,6 +41,7 @@ def naredi_csv():
             for k in podatki['zanr']:
                 sez_zanrov.append({'id': id, 'zanr': k})
             id += 1
+            podatki.pop('zanr', None)
             if counter >= 70:
                 break
             sez.append(podatki)
