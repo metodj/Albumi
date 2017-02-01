@@ -1,0 +1,1381 @@
+id,naslov,avtor,ocena_kritikov,leto,ocena_ljudi
+1,Ten Freedom Summers,Wadada Leo Smith,99,2012,50
+2,SMiLE,Brian Wilson ,97,2004,80
+3,Van Lear Rose,Loretta Lynn,97,2004,87
+4,To Pimp A Butterfly,Kendrick Lamar,96,2015,90
+5,Histoire de Melody Nelson,Serge Gainsbourg,96,2009,87
+6,Stankonia,Outkast,95,2000,89
+7,Black Messiah,D'Angelo,95,2014,87
+8,Skeleton Tree,Nick Cave & the Bad Seeds,95,2016,82
+9,My Beautiful Dark Twisted Fantasy,Kanye West,94,2010,89
+10,Savane,Ali Farka Toure,94,2006,84
+11,Madvillainy,Madvillain,93,2004,87
+12,Live At Reading,Nirvana,93,2009,90
+13,Love And Theft,Bob Dylan,93,2001,88
+14,My Dusty Road,Woody Guthrie,93,2009,50
+15,On the Impossible Past,The Menzingers,93,2012,77
+16,Lemonade,Beyoncé,92,2016,76
+17,Pull Up Some Dust and Sit Down,Ry Cooder,92,2011,68
+18,Sunbather,Deafheaven,92,2013,83
+19,"Orphans: Brawlers, Bawlers & Bastards",Tom Waits,92,2006,89
+20,Boy In Da Corner,Dizzee Rascal,92,2004,89
+21,You Want It Darker,Leonard Cohen,92,2016,82
+22,Channel Orange,Frank Ocean,92,2012,89
+23,The Satanist,Behemoth,92,2014,83
+24,Elephant,The White Stripes,92,2003,86
+25,Speakerboxxx/The Love Below,Outkast,91,2003,90
+26,"Home, Like Noplace Is There",The Hotelier,91,2014,84
+27,"Good Kid, M.A.A.D City",Kendrick Lamar,91,2012,91
+28,A Grand Don't Come For Free,The Streets,91,2004,79
+29,Canto,Los Super Seven,91,2001,75
+30,The ArchAndroid,Janelle Monáe,91,2010,91
+31,The  Guitar Song,Jamey Johnson,91,2010,80
+32,Is This It?,The Strokes,91,2001,91
+33,We Got It From Here...Thank You 4 Your Service,A Tribe Called Quest,91,2016,88
+34,From Here We Go Sublime,The Field,90,2007,67
+35,Illinois,Sufjan Stevens,90,2005,90
+36,Carrie & Lowell,Sufjan Stevens,90,2015,88
+37,No Cities to Love,Sleater-Kinney,90,2015,82
+38,Original Pirate Material,The Streets,90,2002,89
+39,Candi Staton,Candi Staton,90,2004,86
+40,Alice,Tom Waits,90,2002,89
+41,Funeral,Arcade Fire,90,2004,92
+42,London Zoo,The Bug,90,2008,65
+43,Jama Ko,Bassekou Kouyate & Ngoni Ba,90,2013,60
+44,Sir Lucious Left Foot: The Son of Chico Dusty,Big Boi,90,2010,89
+45,Untrue,Burial,90,2007,79
+46,XTRMNTR,Primal Scream,90,2000,89
+47,Spaces,Nils Frahm,90,2013,84
+48,Z,My Morning Jacket,90,2005,84
+49,St. Vincent,St. Vincent,89,2014,85
+50,Like a Rose,Ashley Monroe,89,2013,70
+51,RTJ2,Run the Jewels,89,2014,89
+52,Rounds,Four Tet,89,2003,88
+53,Neon Golden,The Notwist,89,2003,91
+54,Since I Left You,The Avalanches,89,2001,91
+55,Modern Times,Bob Dylan,89,2006,84
+56,Apex Predator - Easy Meat,Napalm Death,89,2015,74
+57,HoboSapiens,John Cale,89,2004,86
+58,Miss E... So Addictive,Missy Elliott,89,2001,84
+59,"Bachelor No. 2 (or, the last remains of the dodo)",Aimee Mann,89,2000,87
+60,The Fade in Time,Sam Lee,89,2015,51
+61,Hand.Cannot.Erase.,Steven Wilson,89,2015,85
+62,Fed,Plush,89,2008,78
+63,A Seat at the Table,Solange,89,2016,81
+64,Last Exit,Junior Boys,89,2004,84
+65,The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do,Fiona Apple,89,2012,89
+66,Merriweather Post Pavilion,Animal Collective,89,2009,85
+67,Songs For The Deaf,Queens of the Stone Age,89,2002,91
+68,Wearemonster,Isolée,89,2005,86
+69,Ali & Toumani,Ali Farka Toure And Toumani Diabate,89,2010,87
+71,Rejoicing In The Hands,Devendra Banhart,88,2004,85
+72,Vespertine,Björk,88,2001,91
+73,The Blueprint,Jay-Z,88,2001,88
+74,From Kinshasa,Mbongwana Star,88,2015,52
+75,In Rainbows,Radiohead,88,2007,92
+76,The Woods,Sleater-Kinney,88,2005,84
+77,Lonerism,Tame Impala,88,2012,91
+78,Kill The Moonlight,Spoon,88,2002,90
+79,Monoliths & Dimensions,Sunn O))),88,2009,68
+80,Run the Jewels 3,Run the Jewels,88,2016,91
+81,Foundations of Burden,Pallbearer,88,2014,79
+82,The Graceless Age,John Murry,88,2013,87
+83,Crown and Treaty,Sweet Billy Pilgrim,88,2012,89
+84,Art Angels,Grimes,88,2015,88
+85,Black Tambourine,Black Tambourine,88,2010,80
+86,Abattoir Blues / The Lyre Of Orpheus,Nick Cave & the Bad Seeds,88,2004,88
+87,I Am A Bird Now,Antony and the Johnsons,88,2005,82
+88,Fishscale,Ghostface Killah,88,2006,87
+89,No Devolucion,Thursday,88,2011,86
+90,Rooms of the House,La Dispute,88,2014,84
+91,Cadillactica,Big K.R.I.T.,88,2014,88
+92,Arular,M.I.A.,88,2005,83
+93,You're Dead!,Flying Lotus,88,2014,86
+94,Remedy,Basement Jaxx,88,1999,90
+95,Exit,Shugo Tokumaru,88,2008,89
+96,"For Emma, Forever Ago",Bon Iver,88,2008,91
+97,Complicated Game,James McMurtry,87,2015,81
+98,Pacific Ocean Blue [Reissue],Dennis Wilson,87,2008,90
+99,Leaves Turn Inside You,Unwound,87,2001,88
+100,Have You in My Wilderness,Julia Holter,87,2015,85
+101,Fleet Foxes,Fleet Foxes,87,2008,88
+102,Fetch,Moritz von Oswald Trio,87,2012,88
+103,Person Pitch,Panda Bear,87,2007,86
+104,College Dropout,Kanye West,87,2004,89
+105,Music For the Quiet Hour/The Drawbar Organ EPs,Shackleton,87,2012,78
+106,Upland Stories,Robbie Fulks,87,2016,37
+107,Blackstar,David Bowie,87,2016,88
+108,Something More Than Free,Jason Isbell,87,2015,82
+109,M B V,My Bloody Valentine,87,2013,83
+110,My Woman,Angel Olsen,87,2016,83
+111,John Howard & the Night Mail,John Howard & The Night Mail,87,2015,83
+112,Ten Love Songs,Susanne Sundfør,87,2015,87
+113,The Wonder Years,9th Wonder,87,2011,86
+114,The Argument,Fugazi,87,2001,90
+115,Showtime,Dizzee Rascal,87,2004,83
+116,Blonde,Frank Ocean,87,2016,87
+117,Choose Your Weapon,Hiatus Kaiyote,87,2015,82
+118,Southeastern,Jason Isbell,87,2013,85
+119,The Dirty South,Drive-By Truckers,87,2004,89
+120,The River & the Thread,Rosanne Cash,87,2014,75
+121,Painted Shut,Hop Along,87,2015,84
+122,Historicity,Vijay Iyer Trio,87,2009,80
+123,Too Bright,Perfume Genius,87,2014,83
+124,The Town And The City,Los Lobos,87,2006,86
+125,World Without Tears,Lucinda Williams,87,2003,87
+126,Cold House,Hood,87,2001,85
+127,Things We Lost In The Fire,Low,87,2001,88
+128,The Seer,Swans,87,2012,82
+129,Puberty 2,Mitski,87,2016,83
+130,You Will Never Be One of Us,NAILS,87,2016,63
+131,Summertime '06,Vince Staples,87,2015,85
+132,Raising Sand,Robert Plant And Alison Krauss,87,2007,88
+133,"Now, More Than Ever",Jim Guthrie,87,2004,87
+134,And Their Refinement Of The Decline,Stars Of The Lid,87,2007,72
+135,Let's Stay Friends,Les Savy Fav,87,2007,82
+136,Vulnicura,Björk,87,2015,83
+137,Franz Ferdinand,Franz Ferdinand,87,2004,86
+138,"I Love You, Honeybear",Father John Misty,87,2015,84
+139,Virgins,Tim Hecker,87,2013,83
+141,Human Performance,Parquet Courts,82,2016,81
+142,"Grey Tickles, Black Pressure",John Grant,82,2015,74
+143,Writer's Block,Peter Bjorn and John,82,2007,86
+144,Treasure House,Cat's Eyes,82,2016,90
+145,King Of Jeans,Pissed Jeans,82,2009,79
+146,Piteous Gate,M.E.S.H.,82,2015,85
+147,Third Law,Roly Porter,82,2016,73
+148,Sojourner,Magnolia Electric Co.,82,2007,78
+149,Slave Ambient,The War on Drugs,82,2011,81
+150,Townes,Steve Earle,82,2009,80
+151,Pattern + Grid World,Flying Lotus,82,2010,81
+152,The Dreaming Room,Laura Mvula,82,2016,82
+153,Silent Alarm,Bloc Party,82,2005,89
+154,Epic Jammers and Fortunate Little Ditties,"Bonnie ""Prince"" Billy",82,2016,76
+155,Mid Air,Paul Buchanan,82,2012,80
+156,For the Ghosts Within,Gilad Atzmon,82,2010,89
+157,De-Loused In The Comatorium,The Mars Volta,82,2003,91
+158,Grassed Inn,Blank Realm,82,2014,74
+159,One Day I'm Going To Soar,Dexys,82,2012,80
+160,Little Seeds,Shovels & Rope,82,2016,63
+161,Furnaces,Ed Harcourt,82,2016,74
+162,"Bears, Mayors, Scraps & Bones",Cancer Bats,82,2010,72
+163,Doomsdayer's Holiday,Grails,82,2008,74
+164,Electric Version,The New Pornographers,82,2003,83
+165,Point,Cornelius,82,2002,86
+166,The Facts Of Life,Black Box Recorder,82,2001,83
+167,The Stage Names,Okkervil River,82,2007,88
+168,Sauna,Mount Eerie,82,2015,77
+169,Silence Yourself,Savages,82,2013,86
+170,Overgrown,James Blake,82,2013,86
+171,Learning,Perfume Genius,82,2010,83
+172,City of Refuge,Abigail Washburn,82,2011,90
+173,The Magic Position,Patrick Wolf,82,2007,90
+174,Mutilator Defeated at Last,Thee Oh Sees,82,2015,85
+175,Past Life Martyred Saints,EMA,82,2011,76
+176,We Shall Overcome: The Seeger Sessions,Bruce Springsteen,82,2006,87
+177,Where You Go I Go Too,Lindstrom,82,2008,79
+178,Lowedges,Richard Hawley,82,2003,91
+179,Funeral Mariachi,Sun City Girls,82,2010,76
+180,Universal Audio,The Delgados,82,2004,82
+181,II Trill,Bun B,82,2008,82
+182,A Cosmic Rhythm with Each Stroke,Vijay Iyer,82,2016,75
+183,Cortar Todo,Zu,82,2015,83
+184,Couple Tracks: Singles 2002-2009,Fucked Up,82,2010,67
+185,Wakin on a Pretty Daze,Kurt Vile,82,2013,86
+186,Film of Life,Tony Allen,82,2014,90
+187,Smoke Ring for My Halo,Kurt Vile,82,2011,80
+188,Dig in Deep,Bonnie Raitt,82,2016,68
+189,Bad Vibes,Shlohmo,82,2011,75
+190,Folklore,16 Horsepower,82,2002,80
+191,Murray Street,Sonic Youth,82,2002,87
+192,Asleep In The Back,Elbow,82,2002,86
+193,Discovery of a World Inside the Moone,The Apples In Stereo,82,2000,78
+194,The Secret,Vieux Farka Touré,82,2011,76
+195,Matador,Gaz Coombes,82,2015,81
+196,Sea When Absent,A Sunny Day in Glasgow,82,2014,82
+197,Front Row Seat to Earth,Weyes Blood,82,2016,73
+198,An Empty Bliss Beyond This World,The Caretaker,82,2011,85
+199,Love Me Back,Jazmine Sullivan,82,2010,90
+200,By The Throat,Ben Frost,82,2009,85
+201,Midnight At The Movies,Justin Townes Earle,82,2009,86
+202,Rather Ripped,Sonic Youth,82,2006,88
+203,Desertshore/The Final Report,X-TG,82,2012,83
+204,It's Blitz,Yeah Yeah Yeahs,82,2009,83
+205,Midnight Sun,The Ghost of a Saber Tooth Tiger,82,2014,80
+206,Blank Project,Neneh Cherry,82,2014,74
+207,Up to Anything,The Goon Sax,82,2016,84
+208,There Is Love In You,Four Tet,82,2010,81
+209,Hold On!,The James Hunter Six,82,2016,64
+211,Stitches,Califone,82,2013,80
+212,Primary Colours,The Horrors,82,2009,90
+213,Album Of The Year,The Good Life,82,2004,88
+214,Venice,Fennesz,82,2004,76
+215,Haha Sound,Broadcast,82,2003,87
+216,band red,KaitO,82,2003,91
+217,Good Looking Blues,Laika,82,2000,76
+218,About Farewell,Alela Diane,81,2013,83
+219,False Readings On,Eluvium,81,2016,74
+220,Honor Found In Decay,Neurosis,81,2012,78
+221,Fading Frontier,Deerhunter,81,2015,84
+222,Love Remains,How to Dress Well,81,2010,83
+223,Written In Chalk,Buddy & Julie Miller,81,2009,82
+224,The Midnight Sun,C Duncan,81,2016,73
+225,The Next Day,David Bowie,81,2013,81
+226,Holy Ghost,Modern Baseball,81,2016,78
+227,Banga,Patti Smith,81,2012,83
+228,New Multitudes,Jay Farrar/Will Johnson/Anders Parker/Yim Yames,81,2012,76
+229,Tirtha,Vijay Iyer,81,2011,85
+230,Get Yer Ya-Ya's Out! The Rolling Stones In Concert [40th Anniversary Deluxe Box Set],The Rolling Stones,81,2009,82
+231,Stellular,Rose Elinor Dougall,81,2017,60
+232,Gandadiko,Samba Touré,81,2015,79
+233,"The  Randy Newman Songbook, Vol. 2",Randy Newman,81,2011,83
+234,Burner,Odd Nosdam,81,2005,85
+235,Siberia,Polvo,81,2013,84
+236,Tarpaper Sky,Rodney Crowell,81,2014,88
+237,Total Strife Forever,East India Youth,81,2014,80
+238,R.I.P.,Actress,81,2012,84
+239,Wonderful Rainbow,Lightning Bolt,81,2003,89
+240,Under Construction,Missy Elliott,81,2002,87
+241,Songs In Red And Gray,Suzanne Vega,81,2001,84
+242,Ivy Tripp,Waxahatchee,81,2015,76
+243,Tears Of The Valedictorian,Frog Eyes,81,2007,81
+244,More Faithful,No Joy,81,2015,75
+245,Lay It Down,Al Green,81,2008,90
+246,Aerial,Kate Bush,81,2005,90
+247,Expect Delays,Evans the Death,81,2015,76
+248,Chosen Lords,Aphex Twin,81,2006,88
+249,After,Lady Lamb the Beekeeper,81,2015,78
+250,Now You Are One Of Us,The Paper Chase,81,2006,85
+251,Somewhere Else,Lydia Loveless,81,2014,83
+252,TSOL,Shad,81,2010,83
+253,Love Travels At Illegal Speeds,Graham Coxon,81,2006,85
+254,Fever Ray,Fever Ray,81,2009,90
+255,AM,Arctic Monkeys,81,2013,85
+256,Contra,Vampire Weekend,81,2010,68
+257,Get Behind Me Satan,The White Stripes,81,2005,83
+258,Eric Bachmann,Eric Bachmann,81,2016,46
+259,If I've Only One Time Askin',Daniel Romano,81,2015,84
+260,Ohnomite,Oh No,81,2012,80
+261,Last,The Unthanks,81,2011,81
+262,Avi Buffalo,Avi Buffalo,81,2010,81
+263,Signal Morning,Circulatory System,81,2009,90
+264,Help,Thee Oh Sees,81,2009,86
+265,Cross,Justice,81,2007,89
+266,The Mouse And The Mask,DangerDoom,81,2005,86
+267,Weightlifting,Trash Can Sinatras,81,2004,90
+268,Movement,Gossip,81,2003,84
+269,Morning Phase,Beck,81,2014,79
+270,Researching the Blues,Redd Kross,81,2012,82
+271,The Inheritors,James Holden,81,2013,77
+272,Benjamin Booker,Benjamin Booker,81,2014,81
+273,Life is Good,Nas,81,2012,86
+274,RR7349,S U R V I V E,81,2016,75
+275,Picaresque,The Decemberists,81,2005,85
+276,Take Me to the Alley,Gregory Porter,81,2016,59
+277,Psychic Chasms,Neon Indian,81,2009,87
+278,They Want My Soul,Spoon,81,2014,85
+279,Strands,Steve Hauschildt,81,2016,89
+281,Avatar,Comets On Fire,81,2006,79
+282,Motion Graphics,Motion Graphics,81,2016,76
+283,Platform,Holly Herndon,81,2015,79
+284,Your Future Our Clutter,The Fall,81,2010,84
+285,"Punish, Honey",Vessel,81,2014,80
+286,R Plus Seven,Oneohtrix Point Never,81,2013,85
+287,Push the Sky Away,Nick Cave & the Bad Seeds,81,2013,84
+288,Sea Island,Loscil,81,2014,82
+289,L'Ami du Peuple,Owen,81,2013,74
+290,The Violence,Darren Hayman & the Long Parliament,81,2012,90
+291,Fur & Gold,Bat for Lashes,81,2007,84
+292,Wilderness,Archer Prewitt,81,2005,85
+293,99.9%,Kaytranada,81,2016,85
+294,Lateness of Dancers,Hiss Golden Messenger,81,2014,78
+295,The  Man Who Died in His Boat,Grouper,81,2013,77
+296,Movement,Holly Herndon,81,2012,89
+297,New Leaves,Owen,81,2009,82
+298,I Speak Because I Can,Laura Marling,81,2010,90
+299,Sycamore Meadows,Butch Walker,81,2008,86
+300,Leaving Songs,Stuart A. Staples,81,2006,86
+301,Moms,Menomena,81,2012,77
+302,Potential,The Range,81,2016,76
+303,Bright Like Neon Love,Cut Copy,81,2004,88
+304,Sprinter,Torres,81,2015,79
+305,Paramore,Paramore,81,2013,82
+306,The BBC Sessions,Belle & Sebastian,81,2008,86
+307,Monomania,Deerhunter,81,2013,82
+308,All 6's and 7's,Tech N9ne,81,2011,84
+309,Armchair Apocrypha,Andrew Bird,81,2007,91
+310,The Long Goodbye,The Essex Green,81,2003,84
+311,Turn On The Bright Lights,Interpol,81,2002,91
+312,The Private Press,DJ Shadow,81,2002,84
+313,The Way Out,The Books,81,2010,83
+314,Going Places,Yellow Swans,81,2010,83
+315,03/07-09/07,High Places,81,2008,90
+316,Meet the Humans,Steve Mason,81,2016,75
+317,Short Movie,Laura Marling,81,2015,81
+318,Indian Ocean,Frazey Ford,81,2014,86
+319,Mutant,Arca,81,2015,83
+320,'Allelujah! Don't Bend! Ascend!,Godspeed You! Black Emperor,81,2012,89
+321,Key Markets,Sleaford Mods,81,2015,74
+322,Figure 8,Elliott Smith,81,2000,89
+323,Maraqopa,Damien Jurado,81,2012,85
+324,Here's The Tender Coming,The Unthanks,81,2010,82
+325,Guidance,Russian Circles,81,2016,81
+326,I Don't Like Shit: I Don't Go Outside,Earl Sweatshirt,81,2015,82
+327,The Sophtware Slump,Grandaddy,81,2000,90
+328,The Ecstatic,Mos Def,81,2009,89
+329,Azel,Bombino,81,2016,76
+330,You In Reverse,Built To Spill,81,2006,89
+331,Islah,Kevin Gates,81,2016,71
+332,Saturn's Pattern,Paul Weller,81,2015,76
+333,Recitation,Envy,81,2010,85
+334,Lie Down In The Light,"Bonnie ""Prince"" Billy",81,2008,86
+335,The Lost Tapes,Nas,81,2002,90
+336,Systems/Layers,Rachel's,81,2003,83
+337,Sunny Border Blue,Kristin Hersh,81,2001,87
+338,604,Ladytron,81,2001,84
+339,Someone To Drive You Home,The Long Blondes,81,2007,84
+340,Highly Deadly Black Tarantula,Teeth of the Sea,81,2015,88
+341,Devils & Dust,Bruce Springsteen,81,2005,85
+342,Torres,Torres,81,2013,83
+343,A Friend Of A Friend,Dave Rawlings Machine,81,2009,72
+344,Atomos,A Winged Victory for the Sullen,81,2014,75
+345,Kannon,Sunn O))),81,2015,66
+346,Ego Death,The Internet,81,2015,82
+347,The Boxing Mirror,Alejandro Escovedo,81,2006,82
+348,The Phosphorescent Blues,Punch Brothers,81,2015,79
+349,Divide and Exit,Sleaford Mods,81,2014,76
+351,You Are There,Mono,81,2006,85
+352,Why Make Sense?,Hot Chip,81,2015,80
+353,Back To Black,Amy Winehouse,81,2007,87
+354,Heart like a Levee,Hiss Golden Messenger,81,2016,74
+355,Melody A.M.,Röyksopp,81,2002,90
+356,Mangy Love,Cass McCombs,81,2016,73
+357,Goldenheart,Dawn Richard,81,2013,81
+358,Black Forest,Pale Young Gentlemen,81,2008,84
+359,Mind Control,Uncle Acid and the Deadbeats,81,2013,84
+360,If...,Bill Ryder-Jones,81,2012,88
+361,Logos,Atlas Sound,81,2009,87
+362,Jay Stay Paid,J Dilla aka Jay Dee,81,2009,87
+363,Now Soon Someday [EP],Beans,81,2004,91
+364,These Are The Vistas,The Bad Plus,81,2003,80
+365,The Noise Made By People,Broadcast,81,2000,82
+366,Metamodern Sounds in Country Music,Sturgill Simpson,81,2014,81
+367,Modern Country,William Tyler,81,2016,84
+368,The Rose Has Teeth In The Mouth Of A Beast,Matmos,81,2006,80
+369,Sentenced to Life,Black Breath,81,2012,73
+370,I Am What I Am,Merle Haggard,81,2010,83
+371,Actor,St. Vincent,81,2009,90
+372,Trackless Woods,Iris DeMent,81,2015,86
+373,Reality Testing,Lone,81,2014,80
+374,Lullaby and... The Ceaseless Roar,Robert Plant & the Sensational Space Shifters,81,2014,77
+375,Shut Up I Am Dreaming,Sunset Rubdown,81,2006,91
+376,Rubber Factory,The Black Keys,81,2004,87
+377,Be Still Please,Portastatic,81,2006,75
+378,God's Son,Nas,81,2002,89
+379,Sorceress,Opeth,81,2016,73
+380,The Milk Of Human Kindness,Caribou,81,2005,83
+381,Sing the Delta,Iris DeMent,81,2012,86
+382,Metals,Feist,81,2011,86
+383,The Unborn Capitalist From Limbo,Cory Hanson,81,2016,69
+384,Unseen,The Handsome Family,81,2016,68
+385,GLA,Twin Atlantic,81,2016,70
+386,Eve,Thalia Zedek,81,2016,82
+387,West Kirby Country Primary,Bill Ryder-Jones,81,2015,70
+388,Strangers,Simone Felice,81,2014,78
+389,Ask the Dust,Lorn,81,2012,84
+390,Origin: Orphan,The Hidden Cameras,81,2009,90
+391,Animals In The Dark,William Elliott Whitmore,81,2009,90
+392,Gold And Green,OOIOO,81,2005,82
+393,It's a Wonderful Life,Sparklehorse,81,2001,89
+394,Can Our Love...,Tindersticks,81,2001,90
+395,Double Figure,Plaid,81,2001,78
+396,WIXIW,Liars,81,2012,86
+397,Mutt,Cory Branan,81,2012,85
+398,Engineers,Engineers,81,2005,85
+399,Alasdair Roberts,Alasdair Roberts,81,2015,88
+400,Anniemal,Annie,81,2005,86
+401,"New History Warfare, Vol. 3: To See More Light",Colin Stetson,81,2013,81
+402,Put Your Back N 2 It,Perfume Genius,81,2012,82
+403,Patience (After Sebald),The Caretaker,81,2012,80
+404,July Flame,Laura Veirs,81,2010,75
+405,Wilderness,Wilderness,81,2005,75
+406,Bonfires On The Heath,The Clientele,81,2009,83
+407,St. Elsewhere,Gnarls Barkley,81,2006,84
+408,Drums And Guns,Low,81,2007,82
+409,Gore,Deftones,81,2016,81
+410,Beware the Fetish,Kasai Allstars,81,2014,87
+411,The Magic Whip,Blur,81,2015,84
+412,Distance Inbetween,The Coral,81,2016,74
+413,The London Sessions,LCD Soundsystem,81,2011,89
+414,"Hold On Now, Youngster",Los Campesinos!,81,2008,89
+415,The Plot Against Common Sense,Future of the Left,81,2012,83
+416,Major Arcana,Speedy Ortiz,81,2013,76
+417,En Yay Sah,Janka Nabay,81,2012,90
+418,1972,Josh Rouse,81,2003,87
+419,Summer Of The Shark,Portastatic,81,2003,83
+421,Scissor Sisters,Scissor Sisters,81,2004,89
+422,Transcendental Youth,The Mountain Goats,81,2012,86
+423,Infinite Love,Dustin Wong,81,2010,79
+424,Congotronics 2: Buzz'N'Rumble From The Urb'N'Jungle,Various Artists,81,2006,79
+425,Microcastle,Deerhunter,81,2008,90
+426,You Are Not Alone,Mavis Staples,81,2010,88
+427,Love,Amen Dunes,81,2014,77
+428,A Wonder Working Stone,Alasdair Roberts,81,2013,75
+429,New View,Eleanor Friedberger,81,2016,76
+430,Rhythm,Wildbirds & Peacedrums,81,2014,85
+431,You're Better Than This,Pile,81,2015,85
+432,Easy Wonderful,Guster,81,2010,84
+433,Sweet Heart Sweet Light,Spiritualized,81,2012,83
+434,Flashmob,Vitalic,81,2009,86
+435,MM..Food,MF Doom,81,2004,87
+436,Victim of Love,Charles Bradley,81,2013,75
+437,The Evangelist,Robert Forster,81,2008,84
+438,Penance Soiree,The Icarus Line,81,2004,84
+439,The Old Kit Bag,Richard Thompson,81,2003,84
+440,I Phantom,Mr. Lif,81,2002,84
+441,Something Wicked This Way Comes,The Herbaliser,81,2002,89
+442,The Coral,The Coral,81,2003,85
+443,Nightmare Ending,Eluvium,81,2013,80
+444,Kveikur,Sigur Rós,80,2013,86
+445,"Hissing Fauna, Are You The Destroyer?",Of Montreal,80,2007,89
+446,The Bravest Man in the Universe,Bobby Womack,80,2012,80
+447,The  Age of Adz,Sufjan Stevens,80,2010,84
+448,From Scotland with Love,King Creosote,80,2014,67
+449,The  Blind Hole,Dead in the Dirt,80,2013,65
+450,Break It Yourself,Andrew Bird,80,2012,88
+451,Replica,Oneohtrix Point Never,80,2011,86
+452,Howl,Rival Consoles,80,2015,68
+453,The  Wilderness,Explosions in the Sky,80,2016,80
+454,Sorry To Bother You,The Coup,80,2012,84
+455,Hair,White Fence,80,2012,82
+456,Brilliant Sanity,Teleman,80,2016,82
+457,Quarantine,Laurel Halo,80,2012,86
+458,Ay Ay Ay,Matias Aguayo,80,2009,83
+459,Offend Maggie,Deerhoof,80,2008,85
+460,Sound & Color,Alabama Shakes,80,2015,82
+461,Manafon,David Sylvian,80,2009,80
+462,Dornik,Dornik,80,2015,88
+463,All Is Dream,Mercury Rev,80,2001,85
+464,Hi Honey,Low Cut Connie,80,2015,81
+465,Spring and Fall,Paul Kelly,80,2012,87
+466,No One Wants To Be Here and No One Wants To Leave,The Twilight Sad,80,2014,86
+467,The Crying Light,Antony and the Johnsons,80,2009,81
+468,Sahel Folk,Sidi Toure & Friends,80,2011,86
+469,The  No-Hit Wonder,Cory Branan,80,2014,80
+470,Heart,Stars,80,2003,88
+471,Let Go,Nada Surf,80,2003,89
+472,Blue Boy,Ron Sexsmith,80,2001,80
+473,Kid A,Radiohead,80,2000,93
+474,Music,Madonna,80,2000,83
+475,I Liked It Better When You Had No Heart,Butch Walker And The Black Widows,80,2010,77
+476,Akron/Family,Akron/Family,80,2005,87
+477,Ratchet,Shamir,80,2015,79
+478,Aw C'Mon,Lambchop,80,2004,82
+479,Real Life Is No Cool,Lindstrom & Christabelle,80,2010,73
+480,Mirror Traffic,Stephen Malkmus,80,2011,82
+481,Return To The Sea,Islands,80,2006,83
+482,Cedars,Clearlake,80,2003,80
+483,Humming By The Flowered Vine,Laura Cantrell,80,2005,77
+484,I Shall Die Here,The Body,80,2014,88
+485,Destroy Rock & Roll,Mylo,80,2006,83
+486,One True Vine,Mavis Staples,80,2013,80
+487,Gorilla Manor,Local Natives,80,2010,88
+488,Retribution,Tanya Tagaq,80,2016,87
+489,Suckfish,Audion,80,2005,68
+491,Emmaar,Tinariwen,80,2014,75
+492,Snakes For The Divine,High on Fire,80,2010,68
+493,Hairless Toys,Roisin Murphy,80,2015,84
+494,Sanddollars [EP],Why?,80,2005,82
+495,Thursday,The Weeknd,80,2011,82
+496,Fool,Jameszoo,80,2016,78
+497,Fetch,Melt Banana,80,2013,88
+498,Honest,Future,80,2014,60
+499,The Tigers Have Spoken,Neko Case,80,2004,86
+500,Kill For Love,Chromatics,80,2012,88
+501,Wyatt at the Coyote Palace,Kristin Hersh,80,2016,84
+502,Heron Oblivion,Heron Oblivion,80,2016,70
+503,Since We Last Spoke,RJD2,80,2004,89
+504,Tasty,Kelis,80,2003,87
+505,New York Noise,Various Artists,80,2003,88
+506,Under Cold Blue Stars,Josh Rouse,80,2002,78
+507,Perpetual Motion People,Ezra Furman,80,2015,81
+508,The Sunlandic Twins,Of Montreal,80,2005,90
+509,Lily-O,Sam Amidon,80,2014,75
+510,LP,Holy Fuck,80,2007,69
+511,Hey Hey My My Yo Yo,Junior Senior,80,2007,84
+512,Communion,Rabit,80,2015,82
+513,The Last Romance,Arab Strap,80,2006,83
+514,Stitch of the World,Tift Merritt,80,2017,84
+515,Le Noise,Neil Young,80,2010,81
+516,The Power Of Negative Thinking: B-Sides & Rarities,The Jesus and Mary Chain,80,2008,85
+517,Swisher,Blondes,80,2013,73
+518,Year Of Meteors,Laura Veirs,80,2005,81
+519,Tones Of Town,Field Music,80,2007,87
+520,Let the Good Times Roll,JD McPherson,80,2015,81
+521,Dirt Farmer,Levon Helm,80,2007,86
+522,Bottomless Pit,Death Grips,80,2016,85
+523,Tassili,Tinariwen,80,2011,85
+524,Black Sun,Kode9 & the Spaceape,80,2011,78
+525,Night Falls Over Kortedala,Jens Lekman,80,2007,89
+526,Jim Noir,Jim Noir,80,2008,86
+527,Give My Love to London,Marianne Faithfull,80,2014,73
+528,The Book of Souls,Iron Maiden,80,2015,87
+529,Believers,A.A. Bondy,80,2011,78
+530,Street Horrrsing,Fuck Buttons,80,2008,66
+531,Oshin,DIIV,80,2012,85
+532,Still,Richard Thompson,80,2015,75
+533,Wed 21,Juana Molina,80,2013,88
+534,Reason to Believe: The Songs of Tim Hardin,Various Artists,80,2013,84
+535,The Golden Age of Apocalypse,Thundercat,80,2011,84
+536,Random Axe,Random Axe,80,2011,83
+537,Follow Me Down,Sarah Jarosz,80,2011,81
+538,At The Cut,Vic Chesnutt,80,2009,86
+539,Mystery [EP],BLK JKS,80,2009,81
+540,What I Do,Alan Jackson,80,2004,80
+541,Fabulous Muscles,Xiu Xiu,80,2004,88
+542,Me First,The Elected,80,2004,83
+543,Dangerous Magical Noise,The Dirtbombs,80,2003,84
+544,God Hates Us All,Slayer,80,2001,84
+545,Everything & Nothing,David Sylvian,80,2000,88
+546,"The ""W""",Wu-Tang Clan,80,2000,88
+547,Landing On A Hundred,Cody ChesnuTT,80,2012,77
+548,A Chance To Cut Is A Chance To Cure,Matmos,80,2001,78
+549,Nothing Is Wrong,Dawes,80,2011,81
+550,End Times Undone,David Kilgour and the Heavy Eights,80,2014,76
+551,Pink,Boris,80,2006,84
+552,Praise & Blame,Tom Jones,80,2010,89
+553,Transference,Spoon,80,2010,84
+554,Changes,Charles Bradley,80,2016,76
+555,My Maudlin Career,Camera Obscura,80,2009,89
+556,The Snake,Wildbirds & Peacedrums,80,2009,83
+557,Cupid's Head,The Field,80,2013,78
+558,Dragging A Dead Deer Up A Hill,Grouper,80,2008,91
+559,The Golden Age,American Music Club,80,2008,81
+561,Mic Tyson,Sean Price,80,2012,80
+562,The Hum,Hookworms,80,2014,78
+563,Songs From The Year Of Our Demise,Jon Auer,80,2006,83
+564,Stay Gold,First Aid Kit,80,2014,78
+565,The Return To Form Black Majick Party,Pop Levi,80,2007,77
+566,Goodbye Bread,Ty Segall,80,2011,87
+567,Earthly Delights,Lightning Bolt,80,2009,73
+568,The Wedding,Oneida,80,2005,73
+569,Street's Disciple,Nas,80,2004,86
+570,Pig Lib,Stephen Malkmus,80,2003,88
+571,The Execution of All Things,Rilo Kiley,80,2002,89
+572,Mama's Gun,Erykah Badu,80,2000,90
+573,Private Suit,Bettie Serveert,80,2000,73
+574,"There Is a Hell, Believe Me I've Seen It, There is a Heaven, Let's Keep It a Secret",Bring Me the Horizon,80,2010,85
+575,Begin To Hope,Regina Spektor,80,2006,90
+576,Everything in Between,No Age,80,2010,79
+577,Reflektor,Arcade Fire,80,2013,87
+578,IRM,Charlotte Gainsbourg,80,2010,70
+579,Two Men With The Blues,Willie Nelson & Wynton Marsalis,80,2008,78
+580,Mourning in America and Dreaming in Color,Brother Ali,80,2012,80
+581,C'mon,Low,80,2011,76
+582,Utopia Defeated,D.D. Dumbo,80,2016,78
+583,Sun Coming Down,Ought,80,2015,82
+584,Distractions,Sauna Youth,80,2015,85
+585,Ancient Melodies Of The Future,Built To Spill,80,2001,88
+586,We Are the 21st Century Ambassadors of Peace & Magic,Foxygen,80,2013,86
+587,The Greatest,Cat Power,80,2006,83
+588,Cashmere,Swet Shop Boys,80,2016,81
+589,Get to Heaven,Everything Everything,80,2015,85
+590,Candylion,Gruff Rhys,80,2007,83
+591,Director's Cut,Kate Bush,80,2011,79
+592,White Chalk,PJ Harvey,80,2007,85
+593,Up On The Ridge,Dierks Bentley,80,2010,83
+594,Mr. M,Lambchop,80,2012,75
+595,Ouroboros,Ray LaMontagne,80,2016,78
+596,Saturnalia,The Gutter Twins,80,2008,88
+597,A Loud Bash of Teenage Feelings,Beach Slang,80,2016,71
+598,Keep It Hid,Dan Auerbach,80,2009,88
+599,Jaiyede Afro,Orlando Julius,80,2014,74
+600,Three Fact Fader,Engineers,80,2009,79
+601,A Rush Of Blood To The Head,Coldplay,80,2002,88
+602,The Childhood of a Leader [OST],Scott Walker,80,2016,84
+603,Mystery Glue,Graham Parker & the Rumour,80,2015,79
+604,Stay Gold,Butch Walker,80,2016,89
+605,The Disco's of Imhotep,Hieroglyphic Being,80,2016,70
+606,Cruise Your Illusion,Milk Music,80,2013,89
+607,The Slow Wonder,A.C. Newman,80,2004,86
+608,Hate,The Delgados,80,2003,86
+609,Yanqui U.X.O.,Godspeed You! Black Emperor,80,2002,89
+610,Sound of Water,Saint Etienne,80,2000,72
+611,Pajo,Pajo,80,2005,87
+612,The Bones of What You Believe,Chvrches,80,2013,88
+613,The Besnard Lakes Are The Roaring Night,The Besnard Lakes,80,2010,82
+614,Super Taranta!,Gogol Bordello,80,2007,81
+615,The Libertines,The Libertines,80,2004,90
+616,The Sun's Tirade,Isaiah Rashad,80,2016,82
+617,Gulag Orkestar,Beirut,80,2006,90
+618,The Way The Wind Blows,A Hawk and a Hacksaw,80,2006,88
+619,Nootropics,Lower Dens,80,2012,86
+620,My Krazy Life,Y.G.,80,2014,79
+621,3001: A Laced Odyssey,Flatbush Zombies,80,2016,78
+622,13 & God,13 & God,80,2005,79
+623,Are You Alone?,Majical Cloudz,80,2015,74
+624,All My Demons Greeting Me as a Friend,Aurora,80,2016,87
+625,Be Small,Here We Go Magic,80,2015,76
+626,Tetsuo & Youth,Lupe Fiasco,80,2015,84
+627,The Eldritch Dark,Blood Ceremony,80,2013,88
+628,Django Django,Django Django,80,2012,86
+629,The Con,Tegan and Sara,80,2007,86
+631,Pawn Shoppe Heart,The Von Bondies,80,2004,88
+632,American III: Solitary Man,Johnny Cash,80,2000,88
+633,Thirteen Tales From Urban Bohemia,Dandy Warhols,80,2000,90
+634,All Of A Sudden I Miss Everyone,Explosions in the Sky,80,2007,85
+635,Give the People What They Want,Sharon Jones & the Dap-Kings,80,2014,72
+636,Denies The Day's Demise,Daedelus,80,2006,80
+637,12 Bit Blues,Kid Koala,80,2012,80
+638,DS2,Future,80,2015,71
+639,Fall Heads Roll,The Fall,80,2005,91
+640,Ya-Ka-May,Galactic,80,2010,73
+641,The Angels Of Light Sing 'Other People',Angels Of Light,80,2005,85
+642,Small Town Heroes,Hurray for the Riff Raff,80,2014,72
+643,Exai,Autechre,80,2013,78
+644,Snake Pit,Harvey Mandel,80,2016,83
+645,Georgia,Georgia,80,2015,65
+646,Worthy,Bettye LaVette,80,2015,82
+647,Mariachi El Bronx (II),Mariachi El Bronx,80,2011,68
+648,Libraries,The Love Language,80,2010,76
+649,Infiniheart,Chad VanGaalen,80,2005,85
+650,Silver Age,Bob Mould,80,2012,74
+651,A Place To Bury Strangers,A Place to Bury Strangers,80,2007,87
+652,The Take Off and Landing of Everything,Elbow,80,2014,82
+653,Pretty Years,Cymbals Eat Guitars,80,2016,74
+654,Going Down in History,Waco Brothers,80,2016,90
+655,Tournament Of Hearts,The Constantines,80,2005,88
+656,Night Thoughts,Suede,80,2016,81
+657,Hot Dreams,Timber Timbre,80,2014,84
+658,Club Meds,Dan Mangan,80,2015,71
+659,Under The Skin,Lindsey Buckingham,80,2006,76
+660,Still Life,Kevin Morby,80,2014,90
+661,The Good Fight,Oddisee,80,2015,78
+662,Give a Glimpse of What Yer Not,Dinosaur Jr.,80,2016,77
+663,Boys Outside,Steve Mason,80,2010,83
+664,Dive,Tycho,80,2011,89
+665,EP,Beth Ditto,80,2011,82
+666,Monsters Of Folk,Monsters Of Folk,80,2009,87
+667,Songs For Christmas,Sufjan Stevens,80,2006,86
+668,The Grind Date,De La Soul,80,2004,89
+669,Miss Machine,The Dillinger Escape Plan,80,2004,86
+670,Wig In A Box: Songs From & Inspired By Hedwig & The Angry Inch,Various Artists,80,2003,90
+671,Monday At The Hug & Pint,Arab Strap,80,2003,90
+672,Electric Circus,Common,80,2002,84
+673,I'll Be Lightning,Liam Finn,80,2008,81
+674,Yes Lawd!,NxWorries,80,2016,82
+675,Pale Horses,mewithoutYou,80,2015,84
+676,Cascade,William Basinski,80,2015,88
+677,Album,Girls,80,2009,81
+678,Run Fast,The Julie Ruin,80,2013,79
+679,Arabia Mountain,Black Lips,80,2011,85
+680,Now Here Is Nowhere,Secret Machines,80,2004,90
+681,The Craft,Blackalicious,80,2005,78
+682,Last Days Of Wonder,The Handsome Family,80,2006,78
+683,Twins,Ty Segall,80,2012,87
+684,Apricity,Syd Arthur,80,2016,68
+685,Rewind the Film,Manic Street Preachers,80,2013,80
+686,Monkey Minds in the Devil's Time,Steve Mason,80,2013,85
+687,Breaks in the Armor,Crooked Fingers,80,2011,83
+688,Nashville,Josh Rouse,80,2005,90
+689,The Wondershow Of The World,"Bonnie ""Prince"" Billy & The Cairo Gang",80,2010,80
+690,Butter,Hudson Mohawke,80,2009,87
+691,Ruins,Grouper,80,2014,81
+692,One Breath,Anna Calvi,80,2013,80
+693,Unglamorous,Lori McKenna,80,2007,72
+694,Down Like Gold,Champs,80,2014,85
+695,Tin Star,Lindi Ortega,80,2013,90
+696,Invisible Hour,Joe Henry,80,2014,80
+697,Visions,Grimes,80,2012,89
+698,Thunderbitch,Thunderbitch,80,2015,85
+699,Hey Mr Ferryman,Mark Eitzel,80,2017,86
+701,Swing Lo Magellan,Dirty Projectors,80,2012,86
+702,"Gather, Form & Fly",Megafaun,80,2009,84
+703,Party Intellectuals,Marc Ribot's Ceramic Dog,80,2008,84
+704,Emerald City,John Vanderslice,80,2007,77
+705,Untouchables,Korn,80,2002,85
+706,The Contino Sessions,Death in Vegas,80,1999,82
+707,"Oh My God, Charlie Darwin",The Low Anthem,80,2009,85
+708,Happy New Year,Oneida,80,2006,82
+709,Holiday,Port St. Willow,80,2013,83
+710,The Invisible Way,Low,80,2013,82
+711,Half The Perfect World,Madeleine Peyroux,80,2006,90
+712,A Man Alive,Thao & the Get Down Stay Down,80,2016,79
+713,Slow Focus,Fuck Buttons,80,2013,84
+714,Okonokos [Live],My Morning Jacket,80,2006,88
+715,Pillars of Ash,Black Tusk,80,2016,72
+716,Soul Power,Curtis Harding,80,2014,88
+717,The Coral Sea,Patti Smith and Kevin Shields,80,2008,88
+718,M.A.D.E.,Scarface,80,2007,82
+719,Confessions On A Dance Floor,Madonna,80,2005,87
+720,Furr,Blitzen Trapper,80,2008,89
+721,Golden Sings That Have Been Sung,Ryley Walker,80,2016,75
+722,Fever Dream,Ben Watt,80,2016,88
+723,Broken Knowz,Jay Daniel,80,2016,90
+724,In and Out of Youth and Lightness,Young Widows,80,2011,90
+725,A Lifetime Of Temporary Relief,Low,80,2004,87
+726,Twoism [EP],Boards of Canada,80,2002,85
+727,Outside Closer,Hood,80,2005,86
+728,The Scene Of The Crime,Bettye LaVette,79,2007,90
+729,Fleeting,Glenn Jones,79,2016,80
+730,Free All the Monsters,The Bats,79,2011,89
+731,Keep It Like A Secret,Built To Spill,79,1999,90
+732,Physicalist,Forma,79,2016,75
+733,Vapours,Islands,79,2009,88
+734,Psychic,Darkside,79,2013,88
+735,Flight Of The Conchords,Flight Of The Conchords,79,2008,81
+736,Tromatic Reflexxions,Von Sudenfed,79,2007,86
+737,Junun,Shye Ben-Tzur,79,2015,76
+738,Max Richter: Sleep [8 Hour Version],Max Richter,79,2015,77
+739,The Face of Mount Molehill,Neil Cowley Trio,79,2012,88
+740,In A Town Called Addis,Dub Colossus,79,2008,81
+741,On Your Own Love Again,Jessica Pratt,79,2015,82
+742,II,The Psychic Paramount,79,2011,88
+743,VEGA INTL. Night School,Neon Indian,79,2015,86
+744,Wavering Radiant,Isis,79,2009,83
+745,Wenu Wenu,Omar Souleyman,79,2013,74
+746,It's Album Time,Todd Terje,79,2014,86
+747,Gang Of Losers,The Dears,79,2006,85
+748,Dissed and Dismissed,Tony Molina,79,2014,85
+749,Felt 3: A Tribute To Rosie Perez,Felt,79,2009,90
+750,Alegranza,El Guincho,79,2008,88
+751,Out Of The Shadow,Rogue Wave,79,2004,75
+752,The Ship,Brian Eno,79,2016,74
+753,Lenses Alien,Cymbals Eat Guitars,79,2011,83
+754,Long Island,Endless Boogie,79,2013,74
+755,Beyond,Dinosaur Jr.,79,2007,90
+756,Vertigo,The Necks,79,2015,90
+757,"Apocalypse, Girl",Jenny Hval,79,2015,84
+758,Near to the Wild Heart of Life,Japandroids,79,2017,78
+759,Noble Beast,Andrew Bird,79,2009,89
+760,Son,Juana Molina,79,2006,82
+761,Brill Bruisers,The New Pornographers,79,2014,82
+762,Didn't He Ramble,Glen Hansard,79,2015,71
+763,Already Free,Derek Trucks Band,79,2009,89
+764,Ouliposaliva,Angil & The Hidden Tracks,79,2008,87
+765,The Grey Album,Danger Mouse,79,2004,81
+766,Built On Squares,Starlight Mints,79,2003,82
+767,She Has No Strings Apollo,Dirty Three,79,2003,74
+768,Sea Change,Beck,79,2002,90
+769,Older Than My Old Man Now,Loudon Wainwright III,79,2012,79
+771,Sol Invictus,Faith No More,79,2015,79
+772,I Am Very Far,Okkervil River,79,2011,84
+773,All That You Can't Leave Behind,U2,79,2000,80
+774,Nothing's Real,Shura,79,2016,85
+775,In Prism,Polvo,79,2009,56
+776,Daze,Brood Ma,79,2016,83
+777,So This Is Goodbye,Junior Boys,79,2006,89
+778,My Dinosaur Life,Motion City Soundtrack,79,2010,76
+779,Peacers,Peacers,79,2015,89
+780,Band of Brothers,Willie Nelson,79,2014,68
+781,Seeds,Georgia Anne Muldrow,79,2012,83
+782,Blisters in the Pit of My Heart,Martha,79,2016,78
+783,Grievances,Rolo Tomassi,79,2015,77
+784,Runner,The Sea and Cake,79,2012,88
+785,Hold Time,M. Ward,79,2009,88
+786,No More Stories Are Told Today I'm Sorry They Washed Away No More Stories the World Is Grey I'm Tired Let's Wash Away,Mew,79,2009,90
+787,Murray's Revenge,Murs,79,2006,86
+788,I Am a Problem: Mind in Pieces,Wolf Eyes,79,2015,78
+789,The Unfairground,Kevin Ayers,79,2008,79
+790,Desperation,Oblivians,79,2013,72
+791,Same As You,Polar Bear,79,2015,74
+792,The Book of David,DJ Quik,79,2011,82
+793,Reconstruction Site,The Weakerthans,79,2003,87
+794,Twice,The Tyde,79,2003,90
+795,No More Shall We Part,Nick Cave & the Bad Seeds,79,2001,89
+796,In The Mode,Roni Size/Reprazent,79,2000,80
+797,Glitter And Doom Live,Tom Waits,79,2009,87
+798,Desire,Pharoahe Monch,79,2007,89
+799,Standards,Into It. Over It.,79,2016,68
+800,"Desperate Youth, Blood Thirsty Babes",TV on the Radio,79,2004,83
+801,DSU,Alex G,79,2014,79
+802,Soul Music,Special Request,79,2013,80
+803,Child Ballads,Jefferson Hamer,79,2013,91
+804,Micah P. Hinson And The Gospel Of Progress,Micah P. Hinson,79,2005,85
+805,Love King,The-Dream,79,2010,84
+806,Shake The Sheets,Ted Leo & The Pharmacists,79,2004,86
+807,Retriever,Ron Sexsmith,79,2004,82
+808,Tio Bitar,Dungen,79,2007,83
+809,"Father, Son, Holy Ghost",Girls,79,2011,87
+810,4,Dungen,79,2008,82
+811,"Pas Pire Pop, I Love You So Much",Avec le Soleil Sortant de Sa Bouche,79,2017,79
+812,Year Of The Gentleman,Ne-Yo,79,2008,87
+813,Before The World Was Big,Girlpool,79,2015,80
+814,"Alright, Still",Lily Allen,79,2007,77
+815,La  Vie Est Belle,Petite Noir,79,2015,66
+816,Brooklynati,Tanya Morgan,79,2009,87
+817,Cripple Crow,Devendra Banhart,79,2005,81
+818,His Hands,Candi Staton,79,2006,83
+819,Pedestrian Verse,Frightened Rabbit,79,2013,81
+820,One of Us Is the Killer,The Dillinger Escape Plan,79,2013,81
+821,What We All Come To Need,Pelican,79,2009,82
+822,Backspacer,Pearl Jam,79,2009,89
+823,Sexwitch,Sexwitch,79,2015,72
+824,Take Me to the Land of Hell,Yoko Ono Plastic Ono Band,79,2013,89
+825,In Ghost Colours,Cut Copy,79,2008,89
+826,Hip Hop Is Dead,Nas,79,2006,88
+827,Schmilco,Wilco,79,2016,78
+828,I AKA I,Ash Koosha,79,2016,71
+829,Beast,DevilDriver,79,2011,81
+830,D,White Denim,79,2011,83
+831,Distortion,Magnetic Fields,79,2008,72
+832,The End Is Near,The New Year,79,2004,89
+833,Mary Star of the Sea,Zwan,79,2003,85
+834,Nextdoorland,The Soft Boys,79,2002,89
+835,Live at Convocation Hall,Hayden,79,2002,81
+836,Restarter,Torche,79,2015,65
+837,Skelethon,Aesop Rock,79,2012,82
+838,90059,Jay Rock,79,2015,74
+839,Oddfellows,Tomahawk,79,2013,71
+841,"22, A Million",Bon Iver,87,2016,82
+842,Phantom Power,Super Furry Animals,87,2003,90
+843,Colfax,The Delines,87,2014,75
+844,Nashville Obsolete,Dave Rawlings Machine,87,2015,71
+845,DFA Remixes: Chapter 1,The DFA,87,2006,84
+846,Mass Romantic,The New Pornographers,87,2000,87
+847,Let England Shake,PJ Harvey,86,2011,86
+848,Sound Of Silver,LCD Soundsystem,86,2007,85
+849,Body Talk,Robyn,86,2010,90
+850,Hollowed,Ital Tek,86,2016,79
+851,Bécs,Fennesz,86,2014,84
+852,Who Kill,tUnE-yArDs,86,2011,81
+853,This Is Still It,The Method Actors,86,2010,83
+854,One Word Extinguisher,Prefuse 73,86,2003,90
+855,Time (The Revelator),Gillian Welch,86,2001,90
+856,Comicopera,Robert Wyatt,86,2007,86
+857,Welcome To Mali,Amadou & Mariam,86,2009,81
+858,A Sailor's Guide to Earth,Sturgill Simpson,86,2016,81
+859,Natalie Prass,Natalie Prass,86,2015,81
+860,Mirrored,Battles,86,2007,80
+861,Are We There,Sharon Van Etten,86,2014,85
+862,Bon Iver,Bon Iver,86,2011,85
+863,How I Got Over,The Roots,86,2010,89
+864,Love & Hate,Michael Kiwanuka,86,2016,84
+865,From the Sea to the Land Beyond [OST],British Sea Power,86,2013,84
+866,The  Blackest Beautiful,Letlive,86,2013,89
+867,Book Burner,Pig Destroyer,86,2012,70
+868,"Dead Cities, Red Seas & Lost Ghosts",M83,86,2004,90
+869,Fixed::Context [EP],Labradford,86,2001,81
+870,Hercules And Love Affair,Hercules & Love Affair,86,2008,70
+871,Minute by Minute,The James Hunter Six,86,2013,78
+872,Syro,Aphex Twin,86,2014,80
+873,blackSUMMERS'night (2016),Maxwell,86,2016,82
+874,Young Man In America,Anaïs Mitchell,86,2012,80
+875,Centres,Ian William Craig,86,2016,75
+876,Life Is People,Bill Fay,86,2012,81
+877,Teens of Denial,Car Seat Headrest,86,2016,82
+878,Without a Net,Wayne Shorter,86,2013,53
+879,Estudando o Pagode,Tom Zé,86,2006,88
+880,Robyn,Robyn,86,2008,87
+881,Separation Sunday,The Hold Steady,86,2005,90
+882,The Decline Of British Sea Power,British Sea Power,86,2003,86
+883,You Forgot It In People,Broken Social Scene,86,2003,91
+884,Quicksand / Cradlesnakes,Califone,86,2003,89
+885,Rings Around The World,Super Furry Animals,86,2002,91
+886,Blues Dream,Bill Frisell,86,2001,86
+887,Run the Jewels,Killer Mike,86,2013,86
+888,Minimum-Maximum [Live],Kraftwerk,86,2005,88
+889,Once I Was an Eagle,Laura Marling,86,2013,85
+890,Kaleidoscope Dream,Miguel,86,2012,86
+891,"Thunder, Lightning, Strike",The Go! Team,86,2005,86
+892,Halcyon Digest,Deerhunter,86,2010,86
+893,Dissociation,The Dillinger Escape Plan,86,2016,81
+894,Dark Energy,Jlin,86,2015,69
+895,Floreat,Mara Carlyle,86,2011,83
+896,Beautifully Human: Words And Sounds Vol. 2,Jill Scott,86,2004,87
+897,Welcome Interstate Managers,Fountains of Wayne,86,2003,84
+898,Midwest Farmer's Daughter,Margo Price,86,2016,79
+899,Assume Crash Position,Konono No. 1,86,2010,75
+900,Luxury Problems,Andy Stott,86,2012,85
+901,Space Is Only Noise,Nicolas Jaar,86,2011,86
+902,Midlife: A Beginner's Guide To Blur,Blur,86,2009,87
+903,45:33,LCD Soundsystem,86,2007,78
+904,Platinum,Miranda Lambert,86,2014,81
+905,LCD Soundsystem,LCD Soundsystem,86,2005,80
+906,The Blade,Ashley Monroe,86,2015,82
+907,This Is Where I Live,William Bell,86,2016,82
+908,It's Great to Be Alive! [Live],Drive-By Truckers,86,2015,85
+909,3 Pears,Dwight Yoakam,86,2012,71
+911,The Lemon Of Pink,The Books,86,2003,87
+912,The Wind,Warren Zevon,86,2003,90
+913,Little Sparrow,Dolly Parton,86,2001,88
+914,All Hands On The Bad One,Sleater-Kinney,86,2000,89
+915,Acid Rap,Chance the Rapper,86,2013,87
+916,Surf,Donnie Trumpet & The Social Experiment,86,2015,82
+917,David Comes To Life,Fucked Up,86,2011,80
+918,Tell Tale Signs: The Bootleg Series Vol. 8,Bob Dylan,86,2008,89
+919,Lost In the Dream,The War on Drugs,86,2014,86
+920,L'Enfant Sauvage,Gojira,86,2012,87
+921,Nerissimo,Teho Teardo,86,2016,73
+922,Way Out Weather,Steve Gunn,86,2014,85
+923,Haw,Hiss Golden Messenger,86,2013,83
+924,The Intercontinentals,Bill Frisell,86,2003,88
+925,Ocean's Eleven OST,David Holmes,86,2001,89
+926,The Convincer,Nick Lowe,86,2001,88
+927,The  Weird and Wonderful,The Marmozets,86,2014,90
+928,untitled unmastered.,Kendrick Lamar,86,2016,84
+929,Poison Season,Destroyer,86,2015,79
+930,When the Heart Emerges Glistening,Ambrose Akinmusire,85,2011,90
+931,Shaking the Habitual,The Knife,85,2013,85
+932,BLACKsummers'night,Maxwell,85,2009,89
+933,Spiral Shadow,Kylesa,85,2010,76
+934,The Agent Intellect,Protomartyr,85,2015,82
+935,Rook,Shearwater,85,2008,86
+936,Stranger to Stranger,Paul Simon,85,2016,79
+937,Party Music,The Coup,85,2001,88
+938,Life...The Best Game In Town,Harvey Milk,85,2008,74
+939,50 Words for Snow,Kate Bush,85,2011,83
+940,Mermaid Avenue: The Complete Sessions,Billy Bragg/Wilco,85,2012,80
+941,Fox Confessor Brings The Flood,Neko Case,85,2006,90
+942,"I'm Wide Awake, It's Morning",Bright Eyes,85,2005,80
+943,Fires Within Fires,Neurosis,85,2016,74
+944,New Brigade,Iceage,85,2011,79
+945,Malibu,Anderson Paak,85,2016,85
+946,So Beautiful or So What,Paul Simon,85,2011,82
+947,Third,Portishead,85,2008,83
+948,Holopaw,Holopaw,85,2003,90
+949,Don't Give Up On Me,Solomon Burke,85,2002,83
+950,Didn't It Rain,Songs: Ohia,85,2002,90
+951,Girls Can Tell,Spoon,85,2001,89
+952,Late Registration,Kanye West,85,2005,88
+953,Impossible Truth,William Tyler,85,2013,68
+954,Stay Positive,The Hold Steady,85,2008,78
+955,Reality Show,Jazmine Sullivan,85,2015,87
+956,Bleach: Deluxe Edition,Nirvana,85,2009,88
+957,Christine and the Queens,Christine and the Queens,85,2015,83
+958,Loyalty,The Weather Station,85,2015,90
+959,Hail To The Thief,Radiohead,85,2003,88
+960,Magnolia Electric Co.,Songs: Ohia,85,2003,88
+961,Pause,Four Tet,85,2001,87
+962,Laulu Laakson Kukista,Paavoharju,85,2008,90
+963,Helplessness Blues,Fleet Foxes,85,2011,88
+964,Mezmerize,System Of A Down,85,2005,84
+965,Purple,Baroness,85,2015,86
+966,Beauty And The Beat,Edan,85,2005,90
+967,Twin Cinema,The New Pornographers,85,2005,89
+968,Benji,Sun Kil Moon,85,2014,84
+969,For Hero: For Fool,Subtle,85,2006,89
+970,Godfather,Wiley,85,2017,70
+971,Seasons of My Soul,Rumer,85,2012,74
+972,New Moon,Elliott Smith,85,2007,88
+973,The Drift,Scott Walker,85,2006,81
+974,Over and Even,Joan Shelley,85,2015,90
+975,Streetcore,Joe Strummer & The Mescaleros,85,2003,85
+976,Happy Songs For Happy People,Mogwai,85,2003,88
+977,Source Tags & Codes,...And You Will Know Us by the Trail of Dead,85,2002,89
+978,Greatest Hits: The Evidence,Ice-T,85,2000,85
+979,My Favorite Picture of You,Guy Clark,85,2013,86
+981,Old Ideas,Leonard Cohen,85,2012,77
+982,Left Of The Dial: Dispatches From The '80s Underground,Various Artists,85,2004,78
+983,Transatlanticism,Death Cab for Cutie,85,2003,88
+984,Run To Ruin,Nina Nastasia,85,2003,83
+985,Dongs of Sevotion,Smog,85,2000,85
+986,The Meadowlands,The Wrens,85,2003,90
+987,Celebration Day [Live],Led Zeppelin,85,2012,83
+988,Boys And Girls In America,The Hold Steady,85,2006,84
+989,Elaenia,Floating Points,85,2015,85
+990,Big Inner,Matthew E. White,85,2012,86
+991,Ys,Joanna Newsom,85,2006,83
+992,Ode,Brad Mehldau Trio,85,2012,80
+993,Supermodified,Amon Tobin,85,2000,86
+994,Revolution,Miranda Lambert,85,2009,90
+995,Enter The Vaselines,The Vaselines,85,2009,82
+996,The Impossible Kid,Aesop Rock,85,2016,85
+997,Tomorrow's Harvest,Boards of Canada,85,2013,85
+998,Architect,C Duncan,85,2015,89
+999,Winter Wheat,John K. Samson,85,2016,83
+1000,Crazy Ex-Girlfriend,Miranda Lambert,85,2007,86
+1001,New Bermuda,Deafheaven,85,2015,86
+1002,Live in Paris,Sleater-Kinney,85,2017,90
+1003,Bonxie,Stornoway,85,2015,76
+1004,The  Harrow and the Harvest,Gillian Welch,85,2011,76
+1005,One Beat,Sleater-Kinney,85,2002,90
+1006,High Violet,The National,85,2010,89
+1007,This Right Here Is Buck 65,Buck 65,85,2005,89
+1008,The Singles,Goldfrapp,85,2012,83
+1009,Beyoncé,Beyoncé,85,2013,81
+1010,Cole's Corner,Richard Hawley,85,2005,88
+1011,Clearing the Path to Ascend,Yob,85,2014,84
+1012,Emeritus,Scarface,85,2008,83
+1013,Lookaftering,Vashti Bunyan,85,2005,81
+1014,R.A.P. Music,Killer Mike,85,2012,85
+1015,This Is Our Science,Astronautalis,85,2011,76
+1016,Levon Vincent,Levon Vincent,85,2015,76
+1017,Before Today,Ariel Pink's Haunted Graffiti,85,2010,80
+1018,I See You,The xx,85,2017,83
+1019,Wind's Poem,Mount Eerie,85,2009,86
+1020,Singing Bones,The Handsome Family,85,2003,87
+1021,Fever To Tell,Yeah Yeah Yeahs,85,2003,83
+1022,The Ugly Organ,Cursive,85,2003,89
+1023,The Last Broadcast,Doves,85,2002,90
+1024,Ocean Roar,Mount Eerie,85,2012,84
+1025,Kaputt,Destroyer,84,2011,87
+1026,Yonder Is The Clock,The Felice Brothers,84,2009,86
+1027,Geogaddi,Boards of Canada,84,2002,91
+1028,Hearts Of Oak,Ted Leo & The Pharmacists,84,2003,89
+1029,Fantasy Empire,Lightning Bolt,84,2015,71
+1030,Tomorrow Is My Turn,Rhiannon Giddens,84,2015,85
+1031,Bow Down To The Exit Sign,David Holmes,84,2000,88
+1032,Indestructible Machine,Lydia Loveless,84,2011,87
+1033,Singing Saw,Kevin Morby,84,2016,78
+1034,Light Up Gold,Parquet Courts,84,2013,83
+1035,1991 [EP],Azealia Banks,84,2012,88
+1036,Electric Dirt,Levon Helm,84,2009,90
+1037,Serena-Maneesh,Serena-Maneesh,84,2006,76
+1038,Before the Dawn [Live],Kate Bush,84,2016,81
+1039,The Great Pretenders,Mini Mansions,84,2015,86
+1040,A World Lit Only by Fire,Godflesh,84,2014,74
+1041,The Way I'm Livin',Lee Ann Womack,84,2014,85
+1042,Emily's D+Evolution,Esperanza Spalding,84,2016,77
+1043,Medulla,Björk,84,2004,88
+1044,Blue Cathedral,Comets On Fire,84,2004,71
+1045,Old Ramon,Red House Painters,84,2001,87
+1046,Mwng,Super Furry Animals,84,2000,89
+1047,Play,Moby,84,1999,91
+1048,Apollo Kids,Ghostface Killah,84,2010,81
+1049,Cancer4Cure,El-P,84,2012,86
+1051,Excavation,The Haxan Cloak,84,2013,86
+1052,Sugar Mountain: Live At Canterbury House 1968,Neil Young,84,2008,74
+1053,Fall Be Kind [EP],Animal Collective,84,2009,70
+1054,ONoffON,Mission of Burma,84,2004,85
+1055,2,All Girl Summer Fun Band,84,2003,90
+1056,Gimme Fiction,Spoon,84,2005,89
+1057,Blood Bitch,Jenny Hval,84,2016,76
+1058,Feels,Animal Collective,84,2005,88
+1059,Down to Believing,Allison Moorer,84,2015,84
+1060,Yeezus,Kanye West,84,2013,76
+1061,Bird Songs,Joe Lovano Us Five,84,2011,84
+1062,Ten [Reissue],Pearl Jam,84,2009,90
+1063,Ga Ga Ga Ga Ga,Spoon,84,2007,87
+1064,In My Mind,BJ the Chicago Kid,84,2016,72
+1065,Sometimes the Blues is Just a Passing Bird,The Tallest Man on Earth,84,2010,86
+1066,Takk...,Sigur Rós,84,2005,88
+1067,MCII,Mikal Cronin,84,2013,84
+1068,The Serpent & the Sphere,Agalloch,84,2014,82
+1069,Nomad,Bombino,84,2013,83
+1070,Copia,Eluvium,84,2007,79
+1071,The Black Album,Jay-Z,84,2003,87
+1072,OST,Lost In Translation,84,2003,86
+1073,Blood Money,Tom Waits,84,2002,87
+1074,"The  Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You",Neko Case,84,2013,81
+1075,My Life In The Bush Of Ghosts [2006 Version],Brian Eno + David Byrne,84,2006,85
+1076,Introducing Karl Blau,Karl Blau,84,2016,64
+1077,Burn Your Fire for No Witness,Angel Olsen,84,2014,83
+1078,Living for a Song: A Tribute to Hank Cochran,Jamey Johnson,84,2012,89
+1079,Imidiwan: Companions,Tinariwen,84,2009,80
+1080,The Crane Wife,The Decemberists,84,2006,88
+1081,Extraordinary Machine,Fiona Apple,84,2005,88
+1082,A.H.A.T.H.H.A.F.T.C.T.T.C.O.T.E.,True Widow,84,2011,80
+1083,The Pretty Toney Album,Ghostface Killah,84,2004,82
+1084,Yoshimi Battles The Pink Robots,The Flaming Lips,84,2002,91
+1085,The Beginning Stages Of...,The Polyphonic Spree,84,2002,70
+1086,Ten,Jason Moran,84,2010,76
+1087,Dark Days/Light Years,Super Furry Animals,84,2009,78
+1088,Ghosts Of The Great Highway,Sun Kil Moon,84,2003,89
+1089,Varmints,Anna Meredith,84,2016,75
+1090,These Were The Earlies,The Earlies,84,2005,85
+1091,Sweet Warrior,Richard Thompson,84,2007,87
+1092,Tarot Sport,Fuck Buttons,84,2009,81
+1093,Entomology,Josef K,84,2006,85
+1094,Our Love,Caribou,84,2014,81
+1095,Heavy Ghost,DM Stith,84,2009,83
+1096,Winter Hymn Country Hymn Secret Hymn,Do Make Say Think,84,2003,85
+1097,Yoko,Beulah,84,2003,90
+1098,The Shepherd's Dog,Iron & Wine,84,2007,91
+1099,Multiply,Jamie Lidell,84,2005,74
+1100,The  Office of Future Plans,The Office of Future Plans,84,2011,82
+1101,Electric,Pet Shop Boys,84,2013,81
+1102,A U R O R A,Ben Frost,84,2014,77
+1103,Modern Vampires of the City,Vampire Weekend,84,2013,88
+1104,Tronic,Black Milk,84,2008,88
+1105,Heaven,Rebecca Ferguson,84,2012,87
+1106,Clap Your Hands Say Yeah,Clap Your Hands Say Yeah,84,2005,85
+1107,Cast Of Thousands,Elbow,84,2004,86
+1108,The Smell Of Our Own,The Hidden Cameras,84,2003,88
+1109,Send,Wire,84,2003,83
+1110,We Love Life,Pulp,84,2002,87
+1111,"Asunder, Sweet and Other Distress",Godspeed You! Black Emperor,84,2015,82
+1112,El Camino,The Black Keys,84,2011,85
+1113,Beauty & Crime,Suzanne Vega,84,2007,89
+1114,Dream River,Bill Callahan,84,2013,81
+1115,Pinch & Shackleton,Shackleton,84,2011,76
+1116,The Miner's Hymns,Johann Johannsson,84,2011,68
+1117,More Than Any Other Day,Ought,84,2014,86
+1118,Emma Jean,Lee Fields,84,2014,83
+1119,Forget,Twin Shadow,84,2010,87
+1121,Inches,Les Savy Fav,84,2004,89
+1122,The Violet Hour,The Clientele,84,2003,90
+1123,The Fine Art of Self-Destruction,Jesse Malin,84,2003,77
+1124,Cobblestone Runway,Ron Sexsmith,84,2002,88
+1125,Lift Your Skinny Fists Like Antennas to Heaven,Godspeed You! Black Emperor,84,2000,92
+1126,Nixon,Lambchop,84,2000,86
+1127,Heal,Strand of Oaks,83,2014,81
+1128,Two Dancers,Wild Beasts,83,2009,90
+1129,Carrion Crawler/The Dream,Thee Oh Sees,83,2011,80
+1130,The Excitement Plan,Todd Snider,83,2009,84
+1131,Slaughterhouse,Ty Segall Band,83,2012,78
+1132,DJ-Kicks,Moodymann,83,2016,76
+1133,Bright Ideas,Portastatic,83,2005,90
+1134,Secret Wars,Oneida,83,2004,80
+1135,Her Majesty The Decemberists,The Decemberists,83,2003,79
+1136,Change,The Dismemberment Plan,83,2001,87
+1137,Time to Die,Electric Wizard,83,2014,88
+1138,School Of The Flower,Six Organs of Admittance,83,2005,74
+1139,FLOTUS,Lambchop,83,2016,82
+1140,Ekstasis,Julia Holter,83,2012,84
+1141,Angels & Devils,The Bug,83,2014,72
+1142,Celebration Rock,Japandroids,83,2012,89
+1143,The Epic,Kamasi Washington,83,2015,89
+1144,New Amerykah Part Two: Return of the Ankh,Erykah Badu,83,2010,85
+1145,"Nostalgia, Ultra.",Frank Ocean,83,2011,88
+1146,One Kind Favor,B.B. King,83,2008,81
+1147,Harmonicraft,Torche,83,2012,84
+1148,"In The 7th Moon, The Chief Turned Into A Swimming Fish And Ate The Head Of His Enemy By Magic",Kasai Allstars,83,2008,88
+1149,Patch the Sky,Bob Mould,83,2016,76
+1150,Out of Season,Beth Gibbons & Rustin Man,83,2003,91
+1151,Truly She Is None Other,Holly Golightly,83,2003,85
+1152,Y Dydd Olaf,Gwenno,83,2015,83
+1153,Us,Brother Ali,83,2009,89
+1154,Clark,Clark,83,2014,82
+1155,Hinterland,LoneLady,83,2015,74
+1156,My Father Will Guide Me Up a Rope to the Sky,Swans,83,2010,87
+1157,Looping State of Mind,The Field,83,2011,86
+1158,The Bright Mississippi,Allen Toussaint,83,2009,83
+1159,The Odds,The Evens,83,2012,79
+1160,Ugly,Screaming Females,83,2012,82
+1161,Food & Liquor,Lupe Fiasco,83,2006,88
+1162,Real Animal,Alejandro Escovedo,83,2008,82
+1163,Old,Danny Brown,83,2013,85
+1164,I Hate Music,Superchunk,83,2013,76
+1165,Silver Bell,Patty Griffin,83,2013,74
+1166,Hospice,The Antlers,83,2009,91
+1167,We Rose from Your Bed with the Sun in Our Head [Live],Swans,83,2012,86
+1168,Game Theory,The Roots,83,2006,89
+1169,Konnichiwa,Skepta,83,2016,77
+1170,Faith in Strangers,Andy Stott,83,2014,84
+1171,Sorrow: Reimagining of Gorecki's 3rd Symphony,Colin Stetson,83,2016,79
+1172,Isolation Drills,Guided by Voices,83,2001,77
+1173,Tempest,Bob Dylan,83,2012,76
+1174,The Party,Andy Shauf,83,2016,83
+1175,Control System,Ab-Soul,83,2012,89
+1176,Blunderbuss,Jack White,83,2012,85
+1177,Light Upon the Lake,Whitney,83,2016,86
+1178,Apologies To The Queen Mary,Wolf Parade,83,2005,88
+1179,Love,The Beatles,83,2006,82
+1180,Until the Quiet Comes,Flying Lotus,83,2012,83
+1181,"Stranger Things, Vol. 1 [Original Television Series Soundtrack]",Kyle Dixon,83,2016,84
+1182,Amygdala,DJ Koze,83,2013,79
+1183,Foil Deer,Speedy Ortiz,83,2015,75
+1184,Open Your Heart,The Men,83,2012,82
+1185,Attack On Memory,Cloud Nothings,83,2012,88
+1186,Like Red On A Rose,Alan Jackson,83,2006,71
+1187,Southern Air,Yellowcard,83,2012,89
+1188,Skeleton,Abe Vigoda,83,2008,78
+1189,Nonagon Infinity,King Gizzard & the Lizard Wizard,83,2016,85
+1191,Hidden,These New Puritans,83,2010,89
+1192,Uproot,DJ/rupture,83,2008,74
+1193,New Amerykah: Part One (4th World War),Erykah Badu,83,2008,86
+1194,1988,Blueprint,83,2005,81
+1195,Sung Tongs,Animal Collective,83,2004,87
+1196,Escondida,Jolie Holland,83,2004,84
+1197,Good News For People Who Love Bad News,Modest Mouse,83,2004,88
+1198,Once In A Lifetime,Talking Heads,83,2003,83
+1199,Red Dirt Road,Brooks & Dunn,83,2003,86
+1200,Me & Giuliani Down By the School Yard (A True Story) [EP],!!! [Chik Chik Chik],83,2003,70
+1201,In Search Of... [Second Version],N.E.R.D. [The Neptunes],83,2002,90
+1202,lilac6,The Lilac Time,83,2001,87
+1203,Tryptych,Demdike Stare,83,2011,67
+1204,Fear Fun,Father John Misty,83,2012,83
+1205,Majesty Shredding,Superchunk,83,2010,82
+1206,And Then Nothing Turned Itself Inside-Out,Yo La Tengo,83,2000,89
+1207,Reloaded,Roc Marciano,83,2012,87
+1208,Moodymann,Moodymann,83,2014,66
+1209,Be,Common,83,2005,91
+1210,Megafaun,Megafaun,83,2011,70
+1211,Something About April II,Adrian Younge,83,2016,80
+1212,Blaqkout,DJ Quik & Kurupt,83,2009,76
+1213,Centralia,Mountains,83,2013,72
+1214,Brighter Than Creation's Dark,Drive-By Truckers,83,2008,88
+1215,The Hunter,Mastodon,83,2011,85
+1216,A Winged Victory for the Sullen,A Winged Victory for the Sullen,83,2011,86
+1217,The Narrows,Grant-Lee Philips,83,2016,40
+1218,Music in Exile,Songhoy Blues,83,2015,72
+1219,Wild Flag,Wild Flag,83,2011,83
+1220,Blackjazz,Shining,83,2010,70
+1221,Swim,Caribou,83,2010,84
+1222,Harlem River Blues,Justin Townes Earle,83,2010,76
+1223,Shine A Light,The Constantines,83,2003,86
+1224,Think Tank,Blur,83,2003,90
+1225,Master And Everyone,"Bonnie ""Prince"" Billy",83,2003,88
+1226,I Am Shelby Lynne,Shelby Lynne,83,2000,88
+1227,Midnite Vultures,Beck,83,1999,88
+1228,Bang Bang Rock & Roll,Art Brut,83,2006,72
+1229,Grinderman,Grinderman,83,2007,84
+1230,Love vs Money,The-Dream,83,2009,88
+1231,Hopelessness,Anohni,83,2016,82
+1232,Choral,Mountains,83,2009,75
+1233,Down Where the Spirit Meets the Bone,Lucinda Williams,83,2014,83
+1234,Blackbirds,Gretchen Peters,83,2015,80
+1235,Chatma,Tamikrest,83,2013,71
+1236,You Could Have It So Much Better,Franz Ferdinand,83,2005,83
+1237,Under Color of Official Right,Protomartyr,83,2014,84
+1238,Eyes & Nines,Trash Talk,83,2010,75
+1239,It Still Moves,My Morning Jacket,83,2003,89
+1240,SVIIB,School of Seven Bells,83,2016,78
+1241,The Visiter,The Dodos,83,2008,90
+1242,Love On The Inside,Sugarland,83,2008,83
+1243,We're New Here,Jamie xx,83,2011,81
+1244,The Sunset Tree,The Mountain Goats,83,2005,89
+1245,Outer Heaven,Greys,83,2016,64
+1246,Nikki Nack,tUnE-yArDs,83,2014,80
+1247,Nashville,Solomon Burke,83,2006,76
+1248,Idiology,Mouse on Mars,83,2001,77
+1249,High,Royal Headache,83,2015,77
+1250,Four the Record,Miranda Lambert,83,2011,86
+1251,PUP,PUP,83,2014,81
+1252,Carboniferous,Zu,83,2009,89
+1253,Loom,Fear of Men,83,2014,76
+1254,We Are King,King,83,2016,78
+1255,Futurology,Manic Street Preachers,83,2014,81
+1256,M,Myrkur,83,2015,78
+1257,"Angels of Darkness, Demons of Light, Vol. 2",Earth,83,2012,83
+1258,A Shadow in Time,William Basinski,83,2017,90
+1259,Circumambulation,True Widow,83,2013,73
+1261,Hubris,Oren Ambarchi,83,2016,84
+1262,Infinite Dissolution,Locrian,83,2015,83
+1263,"If You See Me, Say Yes",Flock of Dimes,83,2016,69
+1264,Whole & Cloven,Nathan Bowles,83,2016,86
+1265,Royal Toast,The Claudia Quintet,83,2010,90
+1266,Skyscraper National Park,Hayden,83,2002,90
+1267,Unreasonable Behavior,Laurent Garnier,83,2000,87
+1268,Come to Where I'm From,Joseph Arthur,83,2000,85
+1269,B'lieve I'm Goin' Down,Kurt Vile,83,2015,74
+1270,Boy,Carla Bozulich,83,2014,58
+1271,The Whole Love,Wilco,83,2011,84
+1272,Bubblegum,Kevin Devine,82,2013,80
+1273,Ice Cream Spiritual,Ponytail,82,2008,69
+1274,Blood Mountain,Mastodon,82,2006,90
+1275,Blue and Lonesome,The Rolling Stones,82,2016,74
+1276,Teen Dream,Beach House,82,2010,79
+1277,Ramble at the Ryman,Levon Helm,82,2011,90
+1278,Option Paralysis,The Dillinger Escape Plan,82,2010,73
+1279,Sebenza,L.V.,82,2012,88
+1280,Nine Types of Light,TV on the Radio,82,2011,79
+1281,Why Do the Heathen Rage?,The Soft Pink Truth,82,2014,83
+1282,(a)spera,Mirah,82,2009,89
+1283,I'm a Dreamer,Josephine Foster,82,2013,83
+1284,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,82,2006,79
+1285,This Is Country Music,Brad Paisley,82,2011,84
+1286,Overpowered,Roisin Murphy,82,2007,90
+1287,East Of Eden,Taken by Trees,82,2009,83
+1288,Home Sweet Home,Kano,82,2005,85
+1289,Shattered,Reigning Sound,82,2014,76
+1290,METZ,METZ,82,2012,76
+1291,Daniel Bachman,Daniel Bachman,82,2016,73
+1292,No One Deserves Happiness,The Body,82,2016,84
+1293,The Miraculous,Anna von Hausswolff,82,2015,83
+1294,Servant of Love,Patty Griffin,82,2015,73
+1295,A Creature I Don't Know,Laura Marling,82,2011,86
+1296,Homeland,Laurie Anderson,82,2010,88
+1297,Watershed,Opeth,82,2008,90
+1298,American V: A Hundred Highways,Johnny Cash,82,2006,87
+1299,Pyramid Electric Co.,Jason Molina,82,2004,78
+1300,Deliverance,Bubba Sparxxx,82,2003,86
+1301,The Mess We Made,Matt Elliott,82,2003,80
+1302,1st Born Second,Bilal,82,2001,87
+1303,Poses,Rufus Wainwright,82,2001,90
+1304,Mermaid Avenue Vol. II,Billy Bragg & Wilco,82,2000,77
+1305,Never Hungover Again,Joyce Manor,82,2014,83
+1306,Epic,Sharon Van Etten,82,2010,90
+1307,Burn Something Beautiful,Alejandro Escovedo,82,2016,83
+1308,Crack The Skye,Mastodon,82,2009,90
+1309,"New History Warfare, Vol. 2: Judges",Colin Stetson,82,2011,89
+1310,The  Electric Lady,Janelle Monáe,82,2013,87
+1311,Life,Dan Friel,82,2015,60
+1312,Panda Bear Meets the Grim Reaper,Panda Bear,82,2015,80
+1313,Weird Little Birthday,Happyness,82,2014,75
+1314,...Like Clockwork,Queens of the Stone Age,82,2013,89
+1315,Yellow & Green,Baroness,82,2012,82
+1316,Sepalcure,Sepalcure,82,2011,87
+1317,Freetown Sound,Blood Orange,82,2016,85
+1318,In Conflict,Owen Pallett,82,2014,80
+1319,Singles,Future Islands,82,2014,86
+1320,The Week That Was,The Week That Was,82,2008,87
+1321,Bright Yellow Bright Orange,The Go-Betweens,82,2003,86
+1322,Red Devil Dawn,Crooked Fingers,82,2003,89
+1323,Cookie: The Anthropological Mix Tape,Me'Shell Ndegéocello,82,2002,77
+1324,Internal Wrangler,Clinic,82,2001,85
+1325,Our Shadows Will Remain,Joseph Arthur,82,2004,90
+1326,Nothing More to Say,The Frightnrs,82,2016,72
+1327,Nothing Violates This Nature,All Pigs Must Die,82,2013,83
+1328,Love Streams,Tim Hecker,82,2016,78
+1329,Canary,Southeast Engine,82,2011,83
+1331,Curse Your Branches,David Bazan,82,2009,89
+1332,Niño Rojo,Devendra Banhart,82,2004,82
+1333,Stephen Malkmus,Stephen Malkmus,82,2001,83
+1334,Mad for Sadness,Arab Strap,82,2000,82
+1335,Demon Days,Gorillaz,82,2005,90
+1336,"We are Beautiful, We Are Doomed",Los Campesinos!,82,2008,83
+1337,America,Dan Deacon,82,2012,84
+1338,Tourist in This Town,Allison Crutchfield,82,2017,98
+1339,The Glass Bead Game,James Blackshaw,82,2009,85
+1340,Back to Love,Anthony Hamilton,82,2011,83
+1341,Oh No,Jessy Lanza,82,2016,80
+1342,Floating Coffin,Thee Oh Sees,82,2013,84
+1343,Theatre Is Evil,Amanda Palmer & the Grand Theft Orchestra,82,2012,90
+1344,I Had a Dream That You Were Mine,Hamilton Leithauser,82,2016,81
+1345,Don't Lose This,"Roebuck ""Pops"" Staples",82,2015,84
+1346,A Love Surreal,Bilal,82,2013,85
+1347,Salad Days,Mac DeMarco,82,2014,86
+1348,The Monitor,Titus Andronicus,82,2010,79
+1349,Frozen Niagara Falls,Prurient,82,2015,75
+1350,Anxiety's Kiss,Coliseum,82,2015,87
+1351,8 Million Stories,Soul Position,82,2003,88
+1352,Dressy Bessy,Dressy Bessy,82,2003,79
+1353,"Burn Piano Island, Burn",The Blood Brothers,82,2003,89
+1354,You Are Free,Cat Power,82,2003,89
+1355,The Rising,Bruce Springsteen & The E Street Band,82,2002,82
+1356,Come Away With Me,Norah Jones,82,2002,87
+1357,Stag,Amy Ray,82,2001,84
+1358,The Renaissance,Q-Tip,82,2008,90
+1359,Sometimes I Wish We Were An Eagle,Bill Callahan,82,2009,83
+1360,Limbo,Eric Copeland,82,2012,85
+1361,Shadows in the Night,Bob Dylan,82,2015,76
+1362,50,Michael Chapman,82,2017,85
+1363,For All We Know,nao,82,2016,83
+1364,All Our Gods Have Abandoned Us,Architects,82,2016,84
+1365,The Most Important Place in the World,Bill Wells,82,2015,85
+1366,A Small Turn Of Human Kindness,Harvey Milk,82,2010,65
+1367,A Vintage Burden,Charalambides,82,2006,86
+1368,This Is It & I Am It & You Are It & So Is That & He Is It & She Is It & It Is It & That Is That,Marnie Stern,82,2008,89
+1369,Sunken Condos,Donald Fagen,82,2012,80
+1370,Words & Music by Saint Etienne,Saint Etienne,82,2012,79
+1371,Fade,Yo La Tengo,82,2013,81
+1372,Citizen of Glass,Agnes Obel,82,2016,78
+1373,Too Many Voices,Andy Stott,82,2016,77
+1374,The Great Destroyer,Low,82,2005,82
+1375,Echoes of Silence,The Weeknd,82,2011,86
+1376,NOTU_URONLINEU,Hi:Emotions,82,2016,86
+1377,Rooty,Basement Jaxx,82,2001,91
+1378,Ears,Kaitlyn Aurelia Smith,82,2016,60
+1379,Ripely Pine,Lady Lamb the Beekeeper,82,2013,86
+1380,Lost Wisdom,Mount Eerie,82,2008,85
+1381,Frozen Orange,David Kilgour,82,2004,88
+1382,OOOH! (Out Of Our Heads),Mekons,82,2002,88
+1383,Confield,Autechre,82,2001,89
+1384,Public Domain: Songs From the Wild Land,Dave Alvin,82,2000,80
+1385,Doris,Earl Sweatshirt,82,2013,84
+1386,The Dreaming Fields,Matraca Berg,82,2011,84
+1387,Essence,Lucinda Williams,82,2001,80
+1388,Vampire Weekend,Vampire Weekend,82,2008,85
+1389,"Love Songs, Pt. 2",Romare,82,2016,54
+1390,Black Peak,Xylouris White,82,2016,67
+1391,The Seldom Seen Kid,Elbow,82,2008,89
+1392,OK Cowboy,Vitalic,82,2006,88
+1393,Wild Mountain Nation,Blitzen Trapper,82,2007,83
+1394,Parallax,Atlas Sound,82,2011,85
+1395,Jet Plane And Oxbow,Shearwater,82,2016,76
+1396,Lodestar,Shirley Collins,82,2016,84
+1397,Familiars,The Antlers,82,2014,82
+1398,Running out of Love,The Radio Dept.,82,2016,73
+1399,Field Report,Field Report,82,2012,75
